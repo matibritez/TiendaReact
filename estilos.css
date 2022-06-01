@@ -1,0 +1,11 @@
+*{
+    margin:0;   
+}
+
+
+.imagen-celular{
+    height: 250px;
+    width: 250px;
+    background-size: cover;
+    background-position: hidden;
+}
